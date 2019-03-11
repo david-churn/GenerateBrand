@@ -3,10 +3,10 @@
 
 const fontLink = document.getElementById("target");
 const generateBtnObj = document.getElementById("gen");
-const mainColorArr = document.getElementsByClassName("cMain");
-const highLightColorArr = document.getElementsByClassName("cHigh");
-const serifArr = document.getElementsByClassName("fSerif");
-const sansArr = document.getElementsByClassName("fSans");
+const mainColorArr = document.getElementsByClassName("c-main");
+const highLightColorArr = document.getElementsByClassName("c-high");
+const serifArr = document.getElementsByClassName("f-serif");
+const sansArr = document.getElementsByClassName("f-sans");
 const backColor = document.getElementById("bc");
 const highColor = document.getElementById("hc");
 const headFont = document.getElementById("hf");
